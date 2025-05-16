@@ -14,7 +14,7 @@ WordInsight is a Python command-line tool that analyzes a text file to provide w
 
 ✅ Lists all words of a specific character length.
 
-🧾 Requirements
+🧾 Requirement
 Python 3.6+
 
 matplotlib (install via pip)
@@ -74,4 +74,4 @@ Words are case-insensitive (all converted to lowercase).
 Punctuation is removed before analysis.
 
 🧑‍💻 Author
-Made with ❤️ using Python.
+Made with ❤️ using Python
